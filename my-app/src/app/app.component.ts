@@ -13,7 +13,7 @@ export class AppComponent implements OnDestroy {
 
   constructor(private appService: AppService) {}
 
-  title = 'angular-nodejs-example';
+  title = 'helm-hello';
 
   userForm = new FormGroup({
     firstName: new FormControl('', Validators.nullValidator && Validators.required),
