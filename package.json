@@ -1,7 +1,7 @@
 {
   "name": "helm-hello",
   "version": "1.0.0",
-  "description": "node server",
+  "description": "helm-hello",
   "main": "index.js",
   "scripts": {
     "start": "node server.bundle.js",
